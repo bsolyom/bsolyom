@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Konzol
-- 🌱 I’m currently learning HTML, CSS, Java, C#
+- 🌱 I’m currently learning HTML, CSS, Java and C#
 - 📫 Discord: console#2447 (747821581341819055)
 
 <!---
