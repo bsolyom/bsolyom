@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Konzol
-- 🌱 I’m currently learning HTML, CSS, Java and C#
+- 👋 Hi, I’m @bsolyom
+- 🌱 I’m currently learning HTML, PHP, Java and C#
 - 📫 Discord: console2447 (747821581341819055)
