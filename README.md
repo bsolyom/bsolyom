@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @bsolyom
-- 🌱 I’m currently learning HTML, PHP, Java and C#
-- 📫 Discord: console2447 (747821581341819055)
+- 🌱 I’m currently learning Java and Go
+- 📫 Discord: nullentry (747821581341819055)
